@@ -93,7 +93,7 @@ Open `disease_prediction_ml.ipynb` and run the cells from top to bottom.
 - [x] Plots and figures in `results/`
 
 ## 10. Author
-**Student:** __________________________  
-**Course:** ___________________________  
-**Instructor:** ________________________  
-**Date:** ______________________________
+**Student:** _____Anika Ulfat_____________________  
+**Course:** __________Federated Learning_________________  
+**Instructor:** ________M. A. Moyeen (Lecturer at IICT)________________  
+
